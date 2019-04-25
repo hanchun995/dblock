@@ -8,7 +8,6 @@ public class DblockApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DblockApplication.class, args);
-		System.out.println();
 	}
 
 }
